@@ -4511,5 +4511,13 @@
       "value": "Forward the message to 7726 (SPAM)",
       "dial": ""
     }
-  ]
+  ],
+  "affiliate": {
+    "enabled": false,
+    "provider": "LifeLock",
+    "title": "One more layer of protection",
+    "text": "This checker catches bad messages. Identity-theft protection goes further: it watches your Social Security number, bank accounts, and credit files and alerts you when someone tries to use them.",
+    "buttonText": "See LifeLock Plans",
+    "url": ""
+  }
 }
