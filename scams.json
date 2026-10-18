@@ -4514,10 +4514,10 @@
  ],
  "affiliate": {
   "enabled": false,
-  "provider": "Identity Guard",
+  "provider": "",
   "title": "One more layer of protection",
   "text": "This checker catches bad messages. Identity-theft protection goes further: it watches your Social Security number, bank accounts, and credit files and alerts you when someone tries to use them.",
-  "buttonText": "See Identity Guard Plans",
+  "buttonText": "See Plans",
   "url": ""
  }
 }
